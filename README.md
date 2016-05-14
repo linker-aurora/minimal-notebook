@@ -2,9 +2,11 @@
 
 # Minimal Jupyter Notebook Stack
 
+Small image for working in the notebook and installing your own libraries
+
 ## What it Gives You
 
-* Jupyter Notebook 4.2.x
+* Fully-functional Jupyter Notebook 4.2.x
 * Conda Python 3.x
 * No preinstalled scientific computing packages
 * Unprivileged user `jovyan` (uid=1000, configurable, see options) in group `users` (gid=100) with ownership over `/home/jovyan` and `/opt/conda`
